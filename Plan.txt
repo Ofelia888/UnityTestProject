@@ -1,0 +1,5 @@
+Things to fix/add
+- Jump shouldn't refresh on same-wall jumps
+- How to do parallax/depth background
+- Win screen
+- UI (menu)
